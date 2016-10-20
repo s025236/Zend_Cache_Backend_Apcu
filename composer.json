@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Zend_Cache_Backend_Cache_Bachend_Apcu": "library/Zend/Cache/Backend/Cache/Bachend/Apcu.php"
+            "Zend_Cache_Backend_Cache_Bachend_Apcu": "Zend/Cache/Backend/Cache/Bachend/Apcu.php"
         }
     }
 }
