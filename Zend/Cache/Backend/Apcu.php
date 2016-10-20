@@ -24,7 +24,7 @@
 /**
  * @see Zend_Cache_Backend_Apc
  */
-require_once 'Zend/Cache/Backend/Zend_Cache_Backend_Apc.php';
+require_once 'Zend/Cache/Backend/Apc.php';
 
 /**
  * @package    Zend_Cache
