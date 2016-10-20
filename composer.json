@@ -5,7 +5,7 @@
     "keywords": [
         "framework",
         "zf1",
-        "apcu",
+        "apcu"
     ],
     "homepage": "https://github.com/s025236/Zend_Cache_Backend_Apcu",
     "license": "BSD-3-Clause",
