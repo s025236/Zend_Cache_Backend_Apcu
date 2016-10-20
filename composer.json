@@ -15,6 +15,5 @@
         "psr-0": {
             "Zend_Cache_Backend_Apcu": "./"
         }
-    },
-    
+    }
 }
