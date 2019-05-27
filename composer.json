@@ -9,7 +9,7 @@
 	"homepage": "https://github.com/s025236/Zend_Cache_Backend_Apcu",
 	"license": "BSD-3-Clause",
 	"require": {
-		"zendframework/zendframework1": "1.*"
+		"s025236/zf1": "dev-master"
 	},
 	"autoload": {
 		"psr-0": {
