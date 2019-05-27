@@ -18,5 +18,11 @@
 	},
 	"include-path": [
 		"./"
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/s025236/zf1"
+		}
 	]
 }
