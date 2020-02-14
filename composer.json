@@ -1,5 +1,5 @@
 {
-	"name": "s025236/zend_cache_backend_apcu",
+	"name": "zendframework/zend_cache_backend_apcu",
 	"description": "Zend Framework 1 - zend_cache_backend_apcu",
 	"type": "library",
 	"keywords": [
