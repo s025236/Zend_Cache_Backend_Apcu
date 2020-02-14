@@ -1,12 +1,12 @@
 {
-	"name": "ashraf-istvn/Zend_Cache_Backend_Apcu",
+	"name": "s025236/Zend_Cache_Backend_Apcu",
 	"description": "Zend Framework 1 - Zend_Cache_Backend_Apcu",
 	"type": "library",
 	"keywords": [
-		"ZF1",
+		"zf1",
 		"apcu"
 	],
-	"homepage": "https://github.com/ashraf-istvn/Zend_Cache_Backend_Apcu",
+	"homepage": "https://github.com/s025236/Zend_Cache_Backend_Apcu",
 	"license": "BSD-3-Clause",
 	"require": {
 		"zendframework/zendframework1": "1.*"
