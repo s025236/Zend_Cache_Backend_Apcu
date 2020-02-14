@@ -1,7 +1,7 @@
 {
 	"name": "ashraf-istvn/Zend_Cache_Backend_Apcu",
 	"description": "Zend Framework 1 - Zend_Cache_Backend_Apcu",
-	"type": "project",
+	"type": "library",
 	"keywords": [
 		"ZF1",
 		"apcu"
