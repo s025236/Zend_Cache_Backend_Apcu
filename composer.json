@@ -1,5 +1,5 @@
 {
-	"name": "zend/zend_cache_backend_apcu",
+	"name": "ashraf-istvn/zend_cache_backend_apcu",
 	"description": "Zend Framework 1 - zend_cache_backend_apcu",
 	"type": "library",
 	"keywords": [
