@@ -3,13 +3,13 @@
 	"description": "Zend Framework 1 - Zend_Cache_Backend_Apcu",
 	"type": "library",
 	"keywords": [
-		"zf1",
+		"ZF1",
 		"apcu"
 	],
-	"homepage": "https://github.com/s025236/Zend_Cache_Backend_Apcu",
+	"homepage": "https://github.com/ashraf-istvn/Zend_Cache_Backend_Apcu",
 	"license": "BSD-3-Clause",
 	"require": {
-		"s025236/zf1": "master@dev"
+		"zendframework/zendframework1": "1.*"
 	},
 	"autoload": {
 		"psr-0": {
@@ -22,7 +22,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/s025236/zf1"
+			"url": "https://github.com/zendframework/zf1.git"
 		}
 	]
 }
