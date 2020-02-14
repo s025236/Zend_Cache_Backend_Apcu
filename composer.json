@@ -1,6 +1,6 @@
 {
-	"name": "s025236/zend_cache_backend_apcu",
-	"description": "Zend Framework 1 - Zend_Cache_Backend_Apcu",
+	"name": "zendframework/zend_cache_backend_apcu",
+	"description": "Zend Framework 1 - zend_cache_backend_apcu",
 	"type": "library",
 	"keywords": [
 		"zf1",
@@ -13,7 +13,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"Zend_Cache_Backend_Apcu": "./"
+			"zend_cache_backend_apcu": "./"
 		}
 	},
 	"include-path": [
