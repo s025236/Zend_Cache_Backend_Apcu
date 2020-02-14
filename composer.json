@@ -1,7 +1,7 @@
 {
-	"name": "s025236/Zend_Cache_Backend_Apcu",
+	"name": "ashraf-istvn/Zend_Cache_Backend_Apcu",
 	"description": "Zend Framework 1 - Zend_Cache_Backend_Apcu",
-	"type": "library",
+	"type": "project",
 	"keywords": [
 		"ZF1",
 		"apcu"
@@ -18,11 +18,5 @@
 	},
 	"include-path": [
 		"./"
-	],
-	"repositories": [
-		{
-			"type": "vcs",
-			"url": "https://github.com/zendframework/zf1.git"
-		}
 	]
 }
